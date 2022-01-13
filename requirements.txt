@@ -1,0 +1,12 @@
+dash
+jupyter
+kaggle
+matplotlib
+numpy
+pandas
+pandas-profiling
+pip
+plotly
+pycaret
+streamlit
+utils
